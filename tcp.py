@@ -7,7 +7,7 @@ import time
 # CONFIGURAÇÕES DO LABORATÓRIO
 # ============================================================
 
-# IP DA INTERFACE DE REDE LOCAL DO COMPUTADOR
+# IP DA INTERFACE DE REDE LOCAL DO COMPUTADOR (Atenção para alterar conforme readme.md)
 SERVER_IP = "192.168.0.57"
 
 # PORTA TCP QUE SERÁ UTILIZADA PELO SERVIDOR
